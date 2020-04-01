@@ -43,4 +43,4 @@ anyone can refer to this repository at any given time for inspiration.
 
 ## Projects
 
-- [Masks4All](www.masks4all.co)
+- [Masks4All](https://www.masks4all.co)
