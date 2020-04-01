@@ -35,11 +35,25 @@ For example: Masks
 It's has been proven that any mask at scale will have a positive effect to battle a pandemic,
 so even a home-made mask made from a cotton based fabric, such as a T-Shirt, used by a large group of people will potentially save thousands of lives.
 
+## Support
+
+In the future, we will accept donations.
+
+The goal is to channel all financial resources to areas, organisations and companies that can make a real world difference.
+
+## Transparency
+
+OpenPandemic should for all eternity stay 100% transparent and never be biased.
+
+This project is to help humanity when it's needed during a pandemic and not for personal gains
+of an individual, institution, company, or nation.
+
+This is for the people, by the people.
+
 ## Final Words
 
 Even if this repo becomes obsolete for whatever reason, the knowledge is documented here, and
 anyone can refer to this repository at any given time for inspiration.
-
 
 ## Projects
 
