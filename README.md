@@ -58,3 +58,4 @@ anyone can refer to this repository at any given time for inspiration.
 ## Projects
 
 - [Masks4All](https://www.masks4all.co)
+- [GliaX](https://github.com/gliax) - Faceshield, Stethoscope, etc
